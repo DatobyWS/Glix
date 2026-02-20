@@ -1,0 +1,62 @@
+{
+  "the ton": {
+    "meaning": "High society, the fashionable elite of London",
+    "hebrew": "החברה הגבוהה",
+    "notes": "From French 'le bon ton'. Central concept in Bridgerton."
+  },
+  "rake": {
+    "meaning": "A charming but dissolute man, a womanizer",
+    "hebrew": "נואף מקסים",
+    "notes": "Short for 'rakehell'. Often used to describe male leads."
+  },
+  "diamond of the first water": {
+    "meaning": "The most beautiful and desirable debutante of the Season",
+    "hebrew": "יהלום ללא דופי",
+    "notes": "Queen Charlotte's ultimate compliment."
+  },
+  "the Season": {
+    "meaning": "The annual London social season for matchmaking",
+    "hebrew": "העונה",
+    "notes": "January to July. Capitalize in translation to preserve importance."
+  },
+  "promenade": {
+    "meaning": "A public walk to see and be seen",
+    "hebrew": "טיול ראווה",
+    "notes": "Social display ritual in parks."
+  },
+  "modiste": {
+    "meaning": "A fashionable dressmaker",
+    "hebrew": "תופרת אופנה",
+    "notes": "French-origin term for couturier."
+  },
+  "calling card": {
+    "meaning": "A formal visiting card left at someone's home",
+    "hebrew": "כרטיס ביקור",
+    "notes": "Part of formal social protocol."
+  },
+  "on-dit": {
+    "meaning": "Gossip, rumor",
+    "hebrew": "רכילות",
+    "notes": "French for 'one says'. Lady Whistledown's currency."
+  },
+  "Your Grace": {
+    "meaning": "Form of address for a Duke or Duchess",
+    "hebrew": "הוד מעלתך",
+    "notes": "Formal title. Keep formal register in Hebrew."
+  },
+  "I dare say": {
+    "meaning": "I suppose, I venture to say",
+    "hebrew": "אני מעז לומר",
+    "notes": "Common Regency filler phrase. Can vary based on context."
+  },
+  "pray tell": {
+    "meaning": "Please tell me (formal request)",
+    "hebrew": "אנא ספר לי",
+    "notes": "Archaic polite request form."
+  },
+  "it would not do": {
+    "meaning": "It would be socially unacceptable",
+    "hebrew": "זה לא יתאים",
+    "notes": "Understatement about social propriety."
+  }
+}

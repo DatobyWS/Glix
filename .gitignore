@@ -1,0 +1,33 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Pipeline output (generated at runtime)
+output/
+
+# Whisper model cache
+*.pt
+
+# pytest
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Babysitter orchestration
+.a5c/
+
+# Video file (too large for git)
+*.mp4

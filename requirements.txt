@@ -1,0 +1,6 @@
+openai-whisper>=20231117
+torch>=2.0.0
+srt>=3.5.3
+anthropic>=0.66.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
