@@ -8,8 +8,10 @@ __pycache__/
 dist/
 build/
 
-# Pipeline output (generated at runtime)
-output/
+# Pipeline output (keep snapshots and audio out of git)
+output/audio.wav
+output/snapshots/
+output/pipeline.log
 
 # Whisper model cache
 *.pt

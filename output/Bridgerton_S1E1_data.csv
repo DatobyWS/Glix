@@ -1,0 +1,138 @@
+﻿subtitle_id,start_time,end_time,duration_sec,english_text,hebrew_text,confidence_score,low_confidence_words,slang_flags,translation_notes,chars_per_sec,accuracy_flag
+1,"00:00:00,760","00:00:02,319",1.56,Let me see. Wait.,"רגע, תנו לי לראות.",0.7627,Let,,,9.62,
+2,"00:00:05,980","00:00:07,919",1.94,Lady Whistledown. Lady Whistledown?,ליידי ויסלדאון. ליידי ויסלדאון?,0.7142,Lady,Lady Whistledown|the season's incomparable|a diamond of the first water|the Viscountess|taken from the market|sponsor her debut|the entire season|rumour-monger|sit this season out|came of age on a farm|four-figured dowry|your grace|eligible duke|vulgar mamars|most gracious invitation|accept my regrets|eligible lady of breeding,,14.43,REVIEW (contains_slang)
+3,"00:00:08,000","00:00:09,880",1.88,"The author. Do we know her, Lady Whistledown?","הכותבת. האם אנו מכירות
+אותה, ליידי ויסלדאון?",0.9505,,,,20.74,REVIEW (fast_reading_speed)
+4,"00:00:09,960","00:00:12,317",2.357,Surely Lady Whistledown cannot be her true name?,בוודאי ליידי ויסלדאון אינו שמה האמיתי?,0.901,Surely|cannot,,,14.0,
+5,"00:00:12,839","00:00:14,119",1.28,"What is it saying, dearest?","מה כתוב שם, יקירתי?",0.8205,is|dearest?,,,12.5,
+6,"00:00:14,580","00:00:16,800",2.22,"She loathes the fact that we've been named alphabetically,","היא מתעבת את העובדה
+שנקראנו על פי סדר האלף-בית,",0.9435,,,,18.02,REVIEW (fast_reading_speed)
+7,"00:00:16,879","00:00:17,579",0.7,or just youngest.,או פשוט הצעירות ביותר.,0.5406,or|youngest.,,,27.14,"REVIEW (low_confidence, fast_reading_speed)"
+8,"00:00:17,660","00:00:19,100",1.44,Your father and I found it orderly.,אביך ואני מצאנו בכך סדר.,0.9843,,,,13.89,
+9,"00:00:19,199","00:00:21,160",1.96,Lady Whistledown finds banality.,ליידי ויסלדאון רואה בכך בנאליות.,0.9635,,,,14.29,
+10,"00:00:21,239","00:00:23,699",2.46,The papers were distributed across town today without charge.,הדפים הופצו ברחבי העיר היום ללא תשלום.,0.9402,,,,13.01,
+11,"00:00:23,780","00:00:25,199",1.42,Without charge? Or what kind of order?,ללא תשלום? או איזה סוג של הזמנה?,0.905,Or,,,18.31,REVIEW (fast_reading_speed)
+12,"00:00:25,280","00:00:26,280",1.0,Oh!,אוי!,0.0517,Oh!,,,4.0,REVIEW (low_confidence)
+13,"00:00:28,340","00:00:30,268",1.929,"Well, at least she has one thing right.","ובכן, לפחות דבר אחד היא צודקת בו.",0.8919,"Well,",,,14.0,
+14,"00:00:30,719","00:00:33,149",2.429,She has named Daphne as the season's incomparable.,היא כינתה את דפנה כבלתי מושווית של העונה.,0.9392,,,,14.0,
+15,"00:00:33,420","00:00:35,399",1.98,She calls you a diamond of the first water.,היא קוראת לך יהלום ללא דופי.,0.9002,calls,,,11.62,
+16,"00:00:35,960","00:00:36,960",1.0,How lovely.,כמה מקסים.,0.8216,How,,,9.0,
+17,"00:00:39,940","00:00:42,340",2.4,I should not be surprised if this Whistledown,לא אתפלא אם ויסלדאון זו,0.9454,Whistledown,,,7.92,
+18,"00:00:42,420","00:00:45,460",3.04,is revealed to be Violet Bridgerton herself.,תתגלה כוויולט ברידג'רטון עצמה.,0.9678,,,,8.88,
+19,"00:00:45,759","00:00:48,500",2.74,"These pages certainly report on the Viscountess's family,","הדפים האלה בוודאי מדווחים
+על משפחת הויסקונטית",0.9777,,,,14.6,
+20,"00:00:48,579","00:00:50,280",1.7,with much indulgence indeed.,בהתרפקות רבה אכן.,0.9361,,,,8.82,
+21,"00:00:50,479","00:00:53,122",2.643,"The pages report nothing but the truth, Lady Fatherington.","הדפים מדווחים רק את
+האמת, ליידי פת'רינגטון.",0.9314,Fatherington.,,,14.38,
+22,"00:00:53,520","00:00:55,100",1.58,"Daphne has bloomed exquisitely,","דפנה פרחה להפליא,",0.9799,,,,9.49,
+23,"00:00:55,179","00:00:55,179",0.001,and the truth is that she is the daughter,והאמת היא שהיא בתה,0.2585,the|truth|is|that|she|is|the|daughter,,,15000.0,"REVIEW (low_confidence, fast_reading_speed)"
+24,"00:00:55,259","00:00:57,219",1.96,"of the Viscountess, and the sooner she is taken from the market,","של הויסקונטית, וככל
+שתוסר מהשוק מוקדם יותר,",0.7572,"of|the|Viscountess,|and",,,19.39,REVIEW (fast_reading_speed)
+25,"00:00:57,299","00:00:59,656",2.357,the better for the other young ladies.,כך יהיה טוב יותר לעלמות הצעירות האחרות.,0.9933,,,,14.0,
+26,"00:01:00,000","00:01:03,380",3.38,Even one's prone to hysterics in front of the Queen.,אפילו מי שנוטה להיסטריה מול המלכה.,0.9589,,,,8.58,
+27,"00:01:05,620","00:01:08,180",2.56,"Ladies, hurry with your miniatures before our guests arise.","גבירותי, מהרו עם הציורים
+הקטנים לפני שהאורחים יקומו.",0.9554,,,,17.97,REVIEW (fast_reading_speed)
+28,"00:01:08,260","00:01:09,903",1.643,"And Penelope, put down that book at once!","ופנלופה, הניחי את הספר מיד!",0.9666,,,,14.0,
+29,"00:01:10,060","00:01:11,489",1.429,You shall confuse your thoughts.,את תבלבלי את מחשבותייך.,0.9896,,,,14.0,
+30,"00:01:12,500","00:01:15,319",2.82,"So, tell me about this cousin,","אז, ספרי לי על הבת דודה הזו,",0.9943,,,,7.8,
+31,"00:01:15,859","00:01:17,216",1.357,joining you for the entire season.,להצטרף אליך לכל העונה.,0.997,,,,14.0,
+32,"00:01:17,560","00:01:20,540",2.98,"She is a distant cousin of my husband,","היא בת דודה רחוקה של בעלי,",0.9471,is,,,7.05,
+33,"00:01:20,620","00:01:23,659",3.04,"and with no close female relative to sponsor her debut,","וללא קרובת משפחה קרובה
+שתחסה על הכנסתה לחברה,",0.9817,,,,12.83,
+34,"00:01:23,739","00:01:27,680",3.94,the daughter of Lord Fatherington has directed me to take her in.,בתו של לורד פת'רינגטון הורתה לי לאמץ אותה.,0.7527,the|daughter|Fatherington,,,8.88,
+35,"00:01:27,920","00:01:28,920",1.0,Charity.,צדקה.,0.6391,Charity.,,,5.0,REVIEW (low_confidence)
+36,"00:01:29,180","00:01:31,739",2.56,You are known to be quite charitable.,את ידועה כנדיבה מאוד.,0.9282,You,,,7.03,
+37,"00:01:32,180","00:01:34,719",2.54,"Precisely what this new rumour-monger should have published,","בדיוק מה שרוכלת השמועות
+החדשה הזו הייתה צריכה לפרסם,",0.9657,,,,17.72,REVIEW (fast_reading_speed)
+38,"00:01:34,799","00:01:37,159",2.36,instead of erroneously specifying that I shall only have,במקום לציין בטעות שתהיינה לי רק,0.9726,,,,11.02,
+39,"00:01:37,239","00:01:39,260",2.02,three young ladies under my care this year.,שלוש עלמות תחת חסותי השנה.,0.9796,,,,10.89,
+40,"00:01:39,379","00:01:40,439",1.06,She knows nothing.,היא לא יודעת דבר.,0.9805,,,,13.21,
+41,"00:01:40,920","00:01:44,540",3.62,Unless you shall like to have only three young ladies under your care.,אלא אם תעדיפי לטפל רק בשלוש עלמות צעירות.,0.9884,,,,9.39,
+42,"00:01:45,060","00:01:46,859",1.8,I should gladly sit this season out.,הייתי שמחה לוותר על העונה הזו.,0.9722,,,,13.89,
+43,"00:01:47,239","00:01:48,700",1.46,Penelope is quite nervous.,פנלופה די מתוחה.,0.9618,,,,9.59,
+44,"00:01:48,819","00:01:50,560",1.74,This shall be her very first season.,זו תהיה העונה הראשונה שלה.,0.976,,,,12.64,
+45,"00:01:50,640","00:01:51,939",1.3,"I am not nervous, Mama.","אני לא מתוחה, אמא.",0.8391,Mama.,,,11.54,
+46,"00:01:52,019","00:01:54,959",2.94,"What she is, is two stone heavier than she ought to be.","מה שהיא כן, זה כבדה יותר
+ממה שהיא צריכה להיות.",0.9427,,,,12.93,
+47,"00:01:55,400","00:01:57,760",2.36,Those blemishes on her face are quite difficult to conceal.,הפגמים בפניה די קשים להסתרה.,0.9577,Those,,,10.17,
+48,"00:01:58,159","00:01:59,859",1.7,Perhaps some arsenic and lead might help.,אולי קצת ארסן ועופרת יעזרו.,0.8291,Perhaps|some,,,13.53,
+49,"00:02:00,060","00:02:01,980",1.92,"Should you allow me to delay only a year,","אם תרשי לי לדחות רק שנה אחת,",0.9903,,,,11.46,
+50,"00:02:02,060","00:02:04,439",2.38,"just as Lady Bridgerton has done for Eloise,","בדיוק כפי שעשתה ליידי
+ברידג'רטון עבור אלויז,",0.9696,,,,16.39,REVIEW (fast_reading_speed)
+51,"00:02:04,519","00:02:06,459",1.94,"I may remain dedicated to my studies, perhaps.","אולי אוכל להישאר מסורה ללימודיי, אולי.",0.993,,,,17.01,REVIEW (fast_reading_speed)
+52,"00:02:06,540","00:02:07,897",1.357,"The answer's no, Penelope.","התשובה היא לא, פנלופה.",0.9349,,,,14.0,
+53,"00:02:09,120","00:02:11,479",2.36,"You may wish to listen to her, my lady,","עליך להקשיב לה, גברתי,",0.9853,,,,8.05,
+54,"00:02:12,140","00:02:16,560",4.42,shepherding four young ladies through these endless rounds of affairs at the same time.,"להוביל ארבע עלמות צעירות דרך סיבובים
+אינסופיים של אירועים בו זמנית.",0.9733,,,,13.12,
+55,"00:02:17,539","00:02:18,680",1.14,Can you imagine the competition?,האם את יכולה לתאר לעצמך את התחרות?,0.9806,,,,24.56,REVIEW (fast_reading_speed)
+56,"00:02:18,759","00:02:22,580",3.82,"Well, how much competition can this cousin provoke?","ובכן, כמה תחרות יכולה בת הדודה הזו לעורר?",0.9096,"Well,",,,8.9,
+57,"00:02:23,000","00:02:26,000",3.0,"She came of age on a farm, she has a mere four-figured dowry,","היא גדלה בחווה, יש לה רק
+נדוניה בת ארבע ספרות,",0.9727,,,,12.67,
+58,"00:02:26,080","00:02:29,520",3.44,"and as for her appearance, well, let us hope Miss Thompson","ואשר להופעתה, ובכן,
+בואו נקווה שמיס תומפסון",0.9528,,,,11.05,
+59,"00:02:29,599","00:02:32,659",3.06,is more presentable than the legions of unkempt animals,נראית יותר מוצגת מלגיונות החיות המוזנחות,0.9943,,,,11.44,
+60,"00:02:32,740","00:02:35,159",2.42,she has spent her entire life tending to back home.,שבילתה כל חייה בטיפול בהן בבית.,0.985,,,,10.74,
+61,"00:02:37,539","00:02:39,599",2.06,"Lord Featherington's cousin has arrived, madam.","בן הדוד של לורד פת'רינגטון הגיע, גברתי.",0.8524,Lord|madam.,,,16.02,REVIEW (fast_reading_speed)
+62,"00:02:39,680","00:02:40,680",1.0,Oh!,הו!,0.3218,Oh!,,,3.0,REVIEW (low_confidence)
+63,"00:02:40,840","00:02:43,300",2.46,"Now, remember to be kind, ladies.","כעת, זכרו להיות אדיבות, נשים יקרות.",0.9695,,,,12.2,
+64,"00:02:44,719","00:02:47,379",2.66,"And charitable, the poor are our burden.","ונדיבות, העניים הם נטל עלינו.",0.9805,,,,9.4,
+65,"00:02:47,460","00:02:48,460",1.0,Mm-hm.,הממ.,0.2942,Mm|-hm.,,,4.0,REVIEW (low_confidence)
+66,"00:02:58,159","00:03:01,060",2.9,"Oh, it's beautiful.","הו, זה יפהפה.",0.6557,"Oh,",,,3.79,REVIEW (low_confidence)
+67,"00:03:02,680","00:03:04,894",2.214,"Good afternoon, Lady Featherington.","אחר צהריים טובים, ליידי פת'רינגטון.",0.9738,,,,14.0,
+68,"00:03:30,659","00:03:34,199",3.54,"Well, if this is not a sight for my sore eyes.","ובכן, זה באמת מחזה מרגיע לעיניי הכואבות.",0.939,"Well,",,,9.6,
+69,"00:03:35,840","00:03:39,280",3.44,"My condolences, your grace, for your father.","תנחומיי, הוד מעלתך, על אביך.",0.9321,your,,,6.98,
+70,"00:03:39,379","00:03:40,379",1.0,Very kind of you.,אדיב מאוד מצידך.,0.8867,Very,,,14.0,
+71,"00:03:40,599","00:03:42,939",2.34,Kind of me? You hated the man.,אדיב ממני? שנאת את האיש הזה.,0.9872,,,,9.83,
+72,"00:03:43,379","00:03:45,500",2.12,"It is so wonderful to see you, Lady Danbury.","כך נפלא לראותך, ליידי דנברי.",0.919,Danbury.,,,11.32,
+73,"00:03:45,780","00:03:47,360",1.58,Words I do not hear often in my life.,מילים שאיני שומעת לעתים קרובות בחיי.,0.7477,in|my|life.,,,19.62,REVIEW (fast_reading_speed)
+74,"00:03:47,439","00:03:48,439",1.0,,,0.0,,,,0.0,REVIEW (low_confidence)
+75,"00:03:47,439","00:03:48,439",1.0,,,0.0,,,,0.0,REVIEW (low_confidence)
+76,"00:03:47,439","00:03:48,439",1.0,,,0.0,,,,0.0,REVIEW (low_confidence)
+77,"00:03:47,439","00:03:48,439",1.0,,,0.0,,,,0.0,REVIEW (low_confidence)
+78,"00:03:47,439","00:03:48,439",1.0,,,0.0,,,,0.0,REVIEW (low_confidence)
+79,"00:03:47,439","00:03:48,020",0.58,,,0.0,,,,0.0,REVIEW (low_confidence)
+80,"00:03:48,099","00:03:49,099",1.0,Come.,בואי.,0.2761,Come.,,,5.0,REVIEW (low_confidence)
+81,"00:03:50,259","00:03:52,439",2.18,You must excuse the disorderliness.,עליך לסלוח על אי הסדר.,0.9299,disorderliness.,,,8.26,
+82,"00:03:53,599","00:03:55,979",2.38,"As you know, I'm to host a ball this evening.","כידוע לך, אני אמורה לארח נשף הערב.",0.9821,,,,11.76,
+83,"00:03:56,060","00:03:56,460",0.4,Yes.,כן.,0.7626,,,,7.5,
+84,"00:03:56,539","00:04:00,120",3.58,I have managed to keep the details of your return quiet.,הצלחתי לשמור בחשאיות את פרטי שובך.,0.9902,,,,8.1,
+85,"00:04:00,360","00:04:04,780",4.42,But when those vulgar mamars discover that there is an eligible duke,"אך כשהאמהות הוולגריות
+הללו יגלו שיש דוכס רווק",0.9645,,,,8.82,
+86,"00:04:04,860","00:04:06,159",1.3,"present at tonight's Fete,","הנוכח במסיבה של הערב,",0.8623,"Fete,",,,13.85,
+87,"00:04:06,580","00:04:10,099",3.52,I shall be able to keep such a secret no longer.,לא אוכל עוד לשמור סוד כזה.,0.9984,,,,5.97,
+88,"00:04:10,180","00:04:12,080",1.9,That is what I was hoping to discuss.,זה בדיוק מה שקיוויתי לדון בו.,0.9967,,,,12.63,
+89,"00:04:12,199","00:04:14,879",2.68,I've only returned to London to deal with my late father's affairs.,"שבתי ללונדון רק כדי
+לטפל בענייני אבי המנוח.",0.9878,,,,13.81,
+90,"00:04:14,960","00:04:17,920",2.96,I'm afraid it leaves me no time to socialize.,"אני חושש שזה לא משאיר
+לי זמן להתחברות חברתית.",0.9071,,,,12.84,
+91,"00:04:18,000","00:04:21,713",3.714,"And so whilst I appreciate your most gracious invitation, Lady Danbury,","ולכן, אף על פי שאני מעריך את
+הזמנתך החיננית ביותר, ליידי דנברי,",0.9512,whilst,,,14.27,
+92,"00:04:22,160","00:04:24,230",2.071,I must ask you to accept my regrets.,אני חייב לבקש ממך לקבל את התנצלותי.,0.9968,,,,14.0,
+93,"00:04:25,600","00:04:28,240",2.64,Your regrets are denied.,התנצלותך נדחית.,0.9427,,,,5.3,
+94,"00:04:30,480","00:04:31,519",1.04,"Well, I suppose a brief appearance...","ובכן, אני מניח שהופעה קצרה...",0.8279,appearance...,,,24.04,REVIEW (fast_reading_speed)
+95,"00:04:31,600","00:04:32,600",1.0,Excellent.,מצוין.,0.9744,,,,6.0,
+96,"00:04:32,680","00:04:35,560",2.88,You may leave that flask you carry at home.,תוכל להשאיר את הבקבוקון שאתה נושא בבית.,0.9971,,,,11.46,
+97,"00:04:36,820","00:04:37,891",1.071,Most undignified.,חסר כבוד לחלוטין.,0.9746,,,,14.01,
+98,"00:04:44,240","00:04:45,240",1.0,Me...,אני...,0.1618,Me...,,,6.0,REVIEW (low_confidence)
+99,"00:04:49,120","00:04:50,120",1.0,Me...,אני...,0.7477,,,,6.0,
+100,"00:04:52,779","00:04:53,379",0.6,Me...,אני...,0.7859,,,,10.0,
+101,"00:04:53,459","00:04:54,459",1.0,Me...,אני...,0.7555,,,,6.0,
+102,"00:04:58,360","00:04:59,360",1.0,Me...,אני...,0.776,,,,6.0,
+103,"00:05:01,560","00:05:03,620",2.06,"Someone may hear us, my lord.","מישהו עלול לשמוע אותנו, אדוני.",0.7576,Someone|lord.,,,12.62,
+104,"00:05:07,860","00:05:08,860",1.0,,,0.0,,,,0.0,REVIEW (low_confidence)
+105,"00:05:16,719","00:05:22,220",5.5,"One day I shall seize that watch and take it apart, bit by bit.","יום אחד אתפוס את השעון הזה
+ואפרק אותו, חלק אחר חלק.",0.9037,One|I,,,7.64,
+106,"00:05:22,579","00:05:23,579",1.0,I belong to my father.,אני שייכת לאבי.,0.8084,I,,,13.0,
+107,"00:05:25,259","00:05:27,439",2.18,"Should it disappear, I would miss it sadly.","אם ייעלם, אתגעגע אליו מאוד.",0.9774,,,,10.55,
+108,"00:05:27,639","00:05:32,339",4.7,Then you shall know precisely how I feel every time you disappear.,"אז תדעי בדיוק איך אני
+מרגיש בכל פעם שאת נעלמת.",0.9738,,,,8.09,
+109,"00:05:34,279","00:05:35,939",1.66,Stay with me today.,הישארי איתי היום.,0.8792,Stay,,,9.04,
+110,"00:05:38,759","00:05:40,117",1.357,I'm afraid I cannot.,אני חוששת שאיני יכולה.,0.9648,,,,14.0,
+111,"00:05:40,680","00:05:41,500",0.82,,,0.0,,,,0.0,REVIEW (low_confidence)
+112,"00:05:41,579","00:05:44,420",2.84,I must chaperone my sister at the Danbury Ball this evening.,עלי לליות את אחותי בנשף דנברי הערב.,0.909,Danbury,,,10.21,
+113,"00:05:45,939","00:05:46,939",1.0,"Daphne, yes?","דפנה, נכון?",0.9397,,,,10.0,
+114,"00:05:47,139","00:05:47,920",0.78,Mm.,ממ.,0.4831,Mm.,,,3.85,REVIEW (low_confidence)
+115,"00:05:48,000","00:05:52,600",4.6,"What might they be like, these grand affairs your sister must attend?","איך הם, האירועים הגדולים האלה
+שאחותך חייבת להשתתף בהם?",0.9893,,,,10.22,
+116,"00:05:52,800","00:05:54,860",2.06,You would hate them.,היית שונאת אותם.,0.9454,,,,6.8,
+117,"00:05:55,259","00:05:57,740",2.48,"Every eligible lady of breeding, dressed in sum...","כל עלמה כשירה ממוצא טוב, לבושה בסכום...",0.7654,of|dressed|sum...,,,13.31,
